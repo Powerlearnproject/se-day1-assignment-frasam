@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 Ans: 
-Software engineering is simply the application of engineering principles in the design, building, testing, deploying, and maintaining of software, through the use of technologies. The sole aim of software engineering is to create software products that will automate tasks. The engineering of software is in phrases: Problem definition, this is involves the definition of the problem at hand. The problem the software product will address in this phase is well-detailed and documented. The next phase is the design: In the design phase, a design that illustrates what the software should do and how it will do it. This phrase is where the UI/UX personnel are involved. In the design phase, a prototype of the software product is designed showing the various steps/journeys. The next phase is the Building phase: In the building phase, the design is being coded, in this phase, various technologies such as HTML, CSS, and JAVASCRIPT just to mention a few are applied. This is the phase where software developers work intensively on the design. The phrase involves the building of the frontend and backend of the software product. The frontend of the software products is the side of the software, that users interact with, while the backend is the side that involves the database and feeds the frontend with data. The next phase is the Testing: The testing phase is where the software product, passes through a series of tests. The essence of this test is to check for bugs(issues or problems) and if any fix them. The next phase is the deployment phrase. In this phase, the software product is now ready for use. The next phrase is the maintenance phase. In this phase, we maintain the software product, we can also add new features to the product. 
+Software engineering is simply the application of engineering principles in the design, building, testing, deploying, and maintaining of software, through the use of technologies. The sole aim of software engineering is to create software products that will automate tasks. The engineering of software is in phrases: Problem definition, this is involves the definition of the problem at hand. The problem the software product will address in this phase is well-detailed and documented. The next phase is the design: In the design phase, a design that illustrates what the software should do and how it will do it. This phrase is where the UI/UX personnel are involved. In the design phase, a prototype of the software product is designed showing the various steps/journeys. The next phase is the Building phase: In the building phase, the design is being coded, in this phase, various technologies such as HTML, CSS, and JAVASCRIPT just to mention a few are applied. This is the phase where software developers work intensively on the design. The phrase involves the building of the frontend and backend of the software product. The frontend of the software products is the side of the software, that users interact with, while the backend is the side that involves the database and feeds the frontend with data. The next phase is the Testing: The testing phase is where the software product, passes through a series of tests. The essence of this test is to check for bugs(issues or problems) and if any fix them. The next phase is the deployment phase. In this phase, the software product is now ready for use. The next phase is the maintenance phase. In this phase, we maintain the software product, we can also add new features to the product. 
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
@@ -58,6 +58,29 @@ Their roles are: development of project plans and timelines; risk management,  m
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+Ans:
+An Integrated Development Environment (IDE) is a toolbox that is majorly built for the development of software products. It is a software application that provides a detailed environment for the writing, testing, debugging, and deploying of code. This is majorly used by developers in the Build (Code) phase in the software development Life Cycle.
+
+The importance of IDE are:
+a. Integrated Development Environment (IDE) provides an advanced code editor that color-codes the written code, assists in the automated indentation of code, and suggests completions. As a result of this, code is more readable and faster to write.
+b. Debugging: The IDE provides a comprehensive search for debugging. IDEs come with built-in debugger searches through every line of code, inspect variables, and also identify the root cause of the problem in code.
+c. Project Management: IDEs assist in the organization of code into manageable files and folders. This makes it easier to navigate and collaborate with other developers.
+d. Version Control Integration: Most IDEs now come with a version control system integrated into them. This helps in the tracking of changes made to code and also helps in effective collaboration with other developers.
+e. Build and Deployment Tools:  Most IDEs offer compilation of code, creation of executable files, and deployment of finished software applications to different environments.
+Examples of IDEs are Visual Studio Code, IntelliJ IDEA, Eclipse, and PyCharm.
+
+Version Control System: These are very important software tool that helps in the tracking of changes made to code during the Building (Code) phase of the software development life cycle. version control systems keep records of every modification made on code. Version Control systems allow developers to do the following:
+a. Return to the previous version whenever something goes wrong with a code that was previously working.
+b. Compare changes made on different versions of the code.
+c. Collaborate efficiently with multiple developers on the same project simultaneously without overwriting each other's changes.
+
+The importance of Version control systems are:
+a. it helps to prevent loss of data (code).
+b. Improve collaboration as a team. The version control system makes it easier and smooth to work together without affecting each other code.
+c. It encourages better coding practices and quality. This is done through review and testing of changes made to the code.
+d. Tracking of project history. We can check various changes made to the code
+ 
+Examples of Version control systems are: Git, Subversion (SVN), and Mercurial
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
