@@ -88,7 +88,7 @@ Ans:
 some of the major challenges faced by developers are:
 a. Not meeting deadlines: This is one of the major challenges faced by developers. It can be overcome by defining clear project goals and breaking them down into manageable tasks. The use of time-tracking tools and techniques to improve efficiency. Maintaining effective and open communication with stakeholders.
 
-b. Changes in requirement: Another challenge with developers is changes in requirement. This most time comes from feedback from users. This can be resolved by, embracing change as part of the development process. Use a robust VCS to track changes and undo them where necessary. Adopting the agile model of software development.
+b. requirement changes: Another challenge with developers is requirement changes. This most time comes from feedback from users. This can be resolved by, embracing change as part of the development process. Use a robust VCS to track changes and undo them where necessary. Adopting the agile model of software development.
 
 c. Quality of Code: This is another challenge faced by developers is the quality of code. most time during the testing phase of the software development life cycle, most code being reviewed often fails the quality check. This can be resolved by, conducting regular reviews on code to improve its readability. Writing well-comprehensive unit tests to ensure that codes are correct. automating the testing and deployment to catch issues early.
 
@@ -100,12 +100,44 @@ f. Inadequate documentation: This challenge is a result of not writing clear and
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Ans:
+Unit testing: This type of testing focuses primarily on components of the software product. Its importance are: 
+a. It improves the code reusability and maintablity.
+b. It facilitates faster development and testing of regression.
+
+Integration testing: This kind of testing focuses on interaction between the various components that make up the software product. Its importance are:
+a. Helps in the verification that various components can work together without issues.
+b. Ensure that data can flow smoothly between modules that make up the software products.
+
+System Testing: The type of testing, that tests the various components that make up the entire software product. In this type of testing, we test the whole  software as a complete or finished service. The importance of system testing is that:
+a. It tests and evaluates the system against the stated specifications and requirements.
+b. Assess the finished product (software) performance, usability, and security.
+c. Identify any form of compatibility issues in terms of working with the system hardware, other existing software, and network.
+d. Making sure the end-user need is being met.
+
+Acceptance Testing: This type of testing concentrates on software functionality. Its importance is:
+a. Making sure that the software meets the requirement for which it was developed.
+b. Confirm the software is ready for deployment.
+c. Ensure that the software meets the end-user expectations.
 
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+Ans:
+Prompt engineering is simply the process of effectively crafting prompts or instructions that guide an AI model to generate the needed result or output. prompt engineering is an art or better still a craft of communicating effectively with an AI in a manner that produces the best result or output.
 
+The importance of prompt engineering are:
+a. It improves accuracy. Well-tailored prompts can significantly produce accurate AI-generated content or results.
+b. It enhanced creativity: Prompt engineering unlocks the potential of AI models, by providing imaginative and thought-provoking prompts.
+c. Efficient Interaction: An effective prompt, streamlines the interaction with AI models. Clear and concise prompts save time and effort and also produce the best outcome.
+ 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Ans:
+An example of a vague prompt is: Tell me something about Nigeria
+
+Improved prompt: Not more than 300 words compose an article about Nigeria's independence and her heroes.
+
+The prompt is improved because it is clarified, specific, and concise. 
